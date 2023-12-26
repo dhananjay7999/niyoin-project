@@ -1,0 +1,323 @@
+body{
+    width: 100%;
+    margin: 0%;
+    overflow-x: hidden;
+}
+
+.bg-color{
+    background-image: url("https://marketingaccesspass.com/wp-content/uploads/2015/10/Podcast-Website-Design-Background-Image.jpg");
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-bottom: 50px;
+}
+
+.navbar {
+    background: var(--white-color);
+    z-index: 9;
+    padding-top: 0;
+    padding-bottom: 0;
+    position: fixed;
+    /* top: 0; */
+    width: 100%;
+}
+
+.cards{
+    background-image: url("https://static.wixstatic.com/media/68306b_64e0ba3d0dc24aa795e487b82f197147~mv2.png/v1/fill/w_333,h_369,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Artboard%20%E2%80%93%203.png");
+    background-size: cover;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+
+.cards2{
+    background-image: url("https://static.wixstatic.com/media/68306b_76119a4dcfad4971a3b4e96b25e69603~mv2.png/v1/fill/w_333,h_369,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Artboard%20%E2%80%93%204.png");
+    background-size: cover;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+
+.cards3{
+    background-image: url("https://static.wixstatic.com/media/68306b_67b80dd92a0841c3b2afafa28e931deb~mv2.png/v1/fill/w_333,h_369,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/gl.png");
+    background-size: cover;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+
+.greenlab h1{
+    text-align: center;
+    padding-top: 80px;
+}
+
+.cards{
+    padding: 30px;
+    margin-top: 30px;
+}
+
+.cards h4{
+    color: #fff;
+}
+
+.cards h6{
+    color: #fff;
+    padding-top: 10px;
+}
+
+.cards p{
+    color: #fff;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+.cards2{
+    padding: 30px;
+    margin-top: 30px;
+}
+
+.cards2 h4{
+    color: #fff;
+}
+
+.cards2 h6{
+    color: #fff;
+    padding-top: 10px;
+}
+
+.cards2 p{
+    color: #fff;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+.cards3{
+    padding: 30px;
+    margin-top: 30px;
+}
+
+.cards3 h4{
+    color: #fff;
+}
+
+.cards3 h6{
+    color: #fff;
+    padding-top: 10px;
+}
+
+.cards3 p{
+    color: #fff;
+    padding-top: 40px;
+    padding-bottom: 54px;
+}
+
+img.green-img {
+    margin-left: 40%;
+    margin-top: 30px;
+}
+
+img.codeless-img {
+    width: 80%;
+    margin-top: 50px;
+}
+
+.codless{
+    margin-top: 30px;
+}
+
+.codless h1{
+    margin-top: 50px;
+    font-size: 45px;
+    color: #007fd3;
+}
+
+.codless h5{
+    padding-top: 20px;
+}
+
+.orange{
+    background-color:#eeeeee;
+    padding: 50px;
+    margin-top: 20px;
+}
+
+.orange p{
+    padding-top: 20px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.orange span{
+    padding-top: 20px;
+    padding-left: 150px;
+    padding-right: 150px;
+    text-align: center;
+}
+
+.orange h4{
+    padding-top: 20px;
+    padding-left: 150px;
+}
+
+img.tech-img {
+    width: 90%;
+    margin-top: 25px;
+    margin-left: 30px;
+}
+
+.techhub h4{
+    padding-top: 30px;
+    color: #007fd3;
+}
+
+.techhub h2{
+    font-size: 35px;
+    padding-top: 20px;
+}
+
+img.img\.lead {
+    text-transform: lowercase;
+    background-image: linear-gradient(-35deg, rgb(214, 119, 119), transparent);
+    margin-left: 40%;
+    margin-top: 30px;
+    border: 2px solid;
+    border-radius: 1%;
+  }
+
+.techhub p{
+    padding-top: 20px;
+}
+
+button.read {
+    margin-top: 30px;
+    width: 140px;
+    height: 40px;
+    border-radius: 20px;
+    color: #fff;
+    border: none;
+    background-color: #1cb9c8;
+}
+
+img.pop-img {
+    width: 80%;
+    margin-left: 60px;
+}
+
+.pop-bg2{
+    background-color: #a88fd3;
+    padding-top: 86px;
+    padding-bottom: 86px;
+    margin-top: 20px;
+}
+
+.pop-bg{
+    background-color: #f6c47d;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    width: 580px;
+    margin-top: 20px;
+}
+
+.popcorn h4{
+    font-size: 35px;
+    color: #6541a4;
+    padding-left: 100px;
+}
+
+.popcorn h6{
+    padding-left: 100px;
+}
+
+.popcorn p{
+    padding-left: 100px;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-right: 15px;
+}
+
+img.basket-img {
+    width: 92%;
+    border-radius: 17px;
+    margin-top: 30px;
+    height: 450px;
+}
+
+.bigbasket h4{
+    padding-top: 40px;
+    font-size: 40px;
+    color: red;
+}
+
+.bigbasket p{
+    padding-top: 10px;
+    font-size: 18px;
+}
+
+.two-cards h1{
+    color: red;
+  font-size: 77px;
+  padding-left: 123px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-top: 60px;
+}
+
+.oyo{
+    border-right: 2px solid black;
+    padding-right: 40px;
+}
+
+.oyo-bg{
+    background-color: #a61616;
+    color: #fff;
+    width: 420px;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.oyo-bg h3{
+    color: white;
+    padding-top: 19px;
+    font-size: 35px;
+}
+
+.oyo-bg p{
+    color: white;
+}
+
+.oyo h2{
+    padding-top: 50px;
+}
+
+.oyo p{
+    padding-top: 10px;
+    font-size: 18px;
+    color: #000;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img.event-img {
+    width: 152px;
+    margin-left: 210px;
+    margin-top: 32px;
+}
+
+.event-sec-img img {
+    width: 38%;
+    margin-left: 192px;
+    border: 2px solid;
+    border-radius: 15px;
+}
+
+.event p{
+    font-size: 18px;
+    color: #000;
+    padding-left: 100px;
+    padding-top: 21px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.two-cards{
+    background-color: #eeeeee;
+    margin-top: 40px;
+    padding-bottom: 30px;
+}
